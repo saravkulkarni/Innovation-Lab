@@ -1,0 +1,93 @@
+
+
+/* Links */
+a {
+  color: #a7beae !important;
+}
+
+a:hover {
+  color: #fefae0 !important;
+}
+
+main {
+ background-color: #fefae0 !important;
+}
+
+.myst-top-nav-bar {
+ border-radius: 15px;
+ background-color: #b85042;
+ 
+}
+
+.myst-home-link-logo img {
+ height: 50px;
+ width: 150px;
+}
+
+.myst-search-bar {
+ background-color: #fefae0 !important;
+ color: #b85042 !important;
+}
+
+.myst-theme-button {
+ background-color: #fefae0 !important;
+ color: #b85042 !important;
+ border-color: #b85042 !important;
+}
+
+
+
+.myst-top-nav {
+ border-radius: 15px;
+ background-color: #b85042 !important;
+ box-shadow: 5px 10px 2px #a7beae !important;
+ }
+
+.myst-navbar-end {
+ color: #fefae0 !important;
+}
+
+
+.myst-primary-sidebar-nav {
+ border-radius: 0px 0px 15px 50px;
+ background-color: #b85042 !important;
+ box-shadow: 5px 10px 2px #a7beae !important;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@700&display=swap');
+
+body {
+    font-family: "Inter", serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Merriweather", serif;
+}
+
+.notebook-toolbar{
+ border-left: 5px solid #1976d2;
+ background-color: #f5f9ff;
+ border-radius: 8px;
+}
+
+.notebook-toolbar ul{
+ margin-bottom: 0;
+}
+
+.notebook-toolbar li {
+ list-style-type: none;
+ margin: 0.4rem 0;
+}
+
+
+
+
+
+
+
+
+
+
