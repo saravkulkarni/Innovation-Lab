@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  # github:
+  github: https://github.com/saravkulkarni/Innovation-Lab.git
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
    - file: Homepage.md
