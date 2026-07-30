@@ -16,16 +16,19 @@ main {
 .myst-top-nav-bar {
  border-radius: 15px;
  background-color: #b85042;
- 
 }
 
 .myst-home-link-logo img {
- height: 50px;
+ height: 40px;
  width: 150px;
 }
 
 .myst-search-bar {
  background-color: #fefae0 !important;
+ color: #b85042 !important;
+}
+
+.myst-fm-launch-button {
  color: #b85042 !important;
 }
 
@@ -35,8 +38,15 @@ main {
  border-color: #b85042 !important;
 }
 
+.myst-fm-downloads-button {
+ color: #b85042 !important;
+}
 
+.myst-fm-github-link {
+ color: #b85042 !important;
+}
 
+ 
 .myst-top-nav {
  border-radius: 15px;
  background-color: #b85042 !important;
@@ -54,8 +64,9 @@ main {
  box-shadow: 5px 10px 2px #a7beae !important;
 }
 
-
-
+.myst-primary-sidebar-footer {
+ color: #b85042 !important;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@700&display=swap');
 
@@ -67,19 +78,21 @@ h1, h2, h3, h4 {
     font-family: "Merriweather", serif;
 }
 
-.notebook-toolbar{
- border-left: 5px solid #1976d2;
- background-color: #f5f9ff;
- border-radius: 8px;
+
+.myst-admonition {
+ border-left: 5px solid #a7beae;
 }
 
-.notebook-toolbar ul{
- margin-bottom: 0;
+.myst-admonition-header {
+ background-color: #b85042
 }
 
-.notebook-toolbar li {
- list-style-type: none;
- margin: 0.4rem 0;
+.myst-admonition-header-text {
+ color: #fefae0
+}
+
+.myst-admonition-header-icon {
+ color: #fefae0
 }
 
 
