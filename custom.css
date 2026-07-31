@@ -18,6 +18,16 @@ main {
  background-color: #b85042;
 }
 
+.myst-jp-nb-toolbar-inner {
+ border-color: #b85042 !important;
+ background-color: #fefae0 !important;
+}
+
+.myst-jp-nb-toolbar-power-btn {
+ color: #b85042 !important;
+}
+
+
 .myst-home-link-logo img {
  height: 40px;
  width: 150px;
