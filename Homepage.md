@@ -5,5 +5,6 @@ Read the introductions to each chapter before starting with the material.
 :::
 
 ::: {tip}
-Click on the 'Open in Colab' buttons to try out the examples and make your own changes.
+Read the 'How to use' page to get the most out of this guidebook.
 :::
+

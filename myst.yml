@@ -12,6 +12,8 @@ project:
   toc:
    - file: Homepage.md
      title: Homepage
+   - file: How_to_use.md
+     title: How to use
 
 site:
   template: book-theme
@@ -20,5 +22,5 @@ site:
    navbar_end: navigationbar.md
   options:
    style: custom.css
-   favicon: UCL-logo.png
-   logo: UCL-logo.png
+   favicon: logo.png
+   logo: logo.png
