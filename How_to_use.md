@@ -36,6 +36,6 @@ You will have to choose the relevant section from the menu that appears on the l
 
 ::: {card} How to use in-page execution
 
-Most of the pages on this website will have a power button. It may take some time for this to load. However, when complete, this will allow you to interact with the code on the page itself. You will be able to edit the code, play, and pause. This is best suited for minor changes though and they will not be saved. Clicking on the external link icon will take you to a MyBinder page as detailed above. 
+Most of the pages on this website will have a power button. It may take some time for this to load. However, when complete, this will allow you to interact with the code on the page itself. You will be able to re-run the code to see the outputs, once you have read and understood it. Clicking on the external link icon will take you to a MyBinder page as detailed above. 
 
 :::
