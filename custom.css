@@ -36,6 +36,12 @@ main {
  border-left: 5px solid #a7beae;
 }
 
+.myst-code {
+border-left: 5px solid #a7beae;
+}
+
+
+
 .myst-footer-link {
  color: #b85042 !important;
 }
