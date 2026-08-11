@@ -40,6 +40,22 @@ main {
 border-left: 5px solid #a7beae;
 }
 
+.myst-card-body {
+ color: #000 !important;
+}
+
+.myst-dropdown-body {
+ background-color: #fefae0 !important;
+}
+
+.myst-dropdown-header {
+ background-color: #b85042 !important;
+}
+
+.myst-dropdown-header-title {
+ color: #fefae0 !important
+}
+
 
 
 .myst-footer-link {

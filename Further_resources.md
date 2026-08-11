@@ -1,0 +1,1 @@
+Here you can find more resources to explore after working through all the chapters. These include UCL modules that students on various degree programmes may be able to take, but also links to external websites and courses.

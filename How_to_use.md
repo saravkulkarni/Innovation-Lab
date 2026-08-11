@@ -2,17 +2,17 @@
 
 ::: {card}
 :header: Content/Theory
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget.
+In order to be as accessible as possible, the mathematical and programming knowledge needed to follow the content has been limited as far as possible. If you want to understand certain parts more comprehensively, look at the prerequisites chapter and/or the further resources chapter.
 :::
 
 ::: {card}
 :header: Examples
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget.
+The examples are inspired by various topics within science, so that you can see how they might be used in research. 
 :::
 
 ::: {card}
 :header: Exercises
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget.
+Try out the exercises, either using Binder or Google Colab (more information below). Some of the exercises will have example/model solutions that you can then check. This is a great way of trying out what you've just read.  
 :::
 ::::
 

@@ -16,9 +16,18 @@ project:
      title: How to use
    - file: demo.ipynb
      title: Demonstration
+   - file: Further_resources.md
+     title: Further resources
+     children:
+      - file: UCL_modules.md
+        title: UCL modules
+      - file: External_resources.md
+        title: Other resources
+
 
 site:
   template: book-theme
+  
   parts:
    primary_sidebar_footer: sidebarfooter.md
    navbar_end: navigationbar.md
