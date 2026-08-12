@@ -36,3 +36,4 @@ site:
    style: custom.css
    favicon: logo.png
    logo: logo.png
+   hide_edit_button: true
