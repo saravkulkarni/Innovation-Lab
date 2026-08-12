@@ -10,6 +10,7 @@ project:
   url: https://saravkulkarni.github.io/Innovation-Lab
   jupyter: true
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  edit_url: null
   toc:
    - file: Homepage.md
      title: Homepage
@@ -36,4 +37,4 @@ site:
    style: custom.css
    favicon: logo.png
    logo: logo.png
-   hide_edit_button: true
+   
