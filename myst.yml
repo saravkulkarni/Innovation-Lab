@@ -16,7 +16,7 @@ project:
      title: Homepage
    - file: How_to_use.md
      title: How to use
-   - file: demo.ipynb
+   - file: Demo.ipynb
      title: Demonstration
    - file: Further_resources.md
      title: Further resources
