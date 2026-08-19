@@ -1,10 +1,10 @@
-#### Machine Learning Guidebook
+Machine Learning Guidebook
 
-### This machine learning guidebook will give you an introductory overview to some of the fundamental concepts in this field. 
+This machine learning guidebook will give you an introductory overview to some of the fundamental concepts in this field. 
 
 :::{table} Table of Contents
 
-:align: center
+
 
 | Chapter | Contents |
 | --- | --- |
