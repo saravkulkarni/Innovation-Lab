@@ -1,20 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Mon Sep 21 07:45:35 2026
-#
-# User preference: *
-#
-# COLUMN sy_name:        System Name
-# COLUMN hostname:       Host Name
-# COLUMN sy_snum:        Number of Stars
-# COLUMN sy_pnum:        Number of Planets
-# COLUMN st_refname:     Stellar Parameter Reference
-# COLUMN st_spectype:    Spectral Type
-# COLUMN st_teff:        Stellar Effective Temperature [K]
-# COLUMN st_rad:         Stellar Radius [Solar Radius]
-# COLUMN st_mass:        Stellar Mass [Solar mass]
-# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
-# COLUMN sy_dist:        Distance [pc]
-#
 sy_name,hostname,sy_snum,sy_pnum,st_refname,st_spectype,st_teff,st_rad,st_mass,st_logg,sy_dist
 11 Com,11 Com,2,1,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,4755.00,17.181000,,,93.18460000
 11 UMi,11 UMi,1,1,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,4248.70,30.262005,,,125.32100000
