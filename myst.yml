@@ -18,6 +18,25 @@ project:
      title: How to use
    - file: Chapter_0_Intro.md
      title: Chapter 0 - Introduction to Python and its Libraries
+   - file: Chapter_1_Intro.md
+     title: Chapter 1 - Machine Learning Introduction
+     children:
+      - file: What_is_machine_learning.md
+        title: What is machine learning?
+      - file: Types_of_ML.md
+        title: Types of machine learning
+   - file: Chapter_2_Intro.md
+     title: Chapter 2 - Data Cleaning
+   - file: Chapter_3_Intro.md
+     title: Chapter 3 - Classification
+   - file: Chapter_4_Intro.md
+     title: Chapter 4 - Regression
+   - file: Chapter_5_Intro.md
+     title: Chapter 5 - Model Evaluation
+   - file: Chapter_6_Intro.md
+     title: Chapter 6 - Validation Techniques
+   - file: Chapter_7_Intro.md
+     title: Chapter 7 - Neural Networks
    - file: Demo.ipynb
      title: Demonstration
    - file: Further_resources.md

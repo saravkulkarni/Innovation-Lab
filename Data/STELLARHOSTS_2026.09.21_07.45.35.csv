@@ -1,0 +1,37 @@
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Mon Sep 21 07:45:35 2026
+#
+# User preference: *
+#
+# COLUMN sy_name:        System Name
+# COLUMN hostname:       Host Name
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN st_refname:     Stellar Parameter Reference
+# COLUMN st_spectype:    Spectral Type
+# COLUMN st_teff:        Stellar Effective Temperature [K]
+# COLUMN st_rad:         Stellar Radius [Solar Radius]
+# COLUMN st_mass:        Stellar Mass [Solar mass]
+# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN sy_dist:        Distance [pc]
+#
+sy_name,hostname,sy_snum,sy_pnum,st_refname,st_spectype,st_teff,st_rad,st_mass,st_logg,sy_dist
+11 Com,11 Com,2,1,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,4755.00,17.181000,,,93.18460000
+11 UMi,11 UMi,1,1,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,4248.70,30.262005,,,125.32100000
+14 And,14 And,1,1,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,4689.46,11.216100,,,75.43920000
+14 Her,14 Her,1,2,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5280.00,1.002350,0.910000,4.395070,17.93230000
+16 Cyg,HIP 96895,3,1,<a refstr=GRAY_ET_AL__2003 href=https://ui.adsabs.harvard.edu/abs/2003AJ....126.2048G/abstract target=ref> Gray et al. 2003 </a>,G1.5 V,,,,,21.13890000
+17 Sco,17 Sco,1,1,<a refstr=TALA_PINTO_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020A&A...644A...1T/abstract target=ref>Tala Pinto et al. 2020</a>,K3 III,4157.00,25.920000,1.220000,1.700000,124.95300000
+18 Del,18 Del B,2,1,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,3284.00,,,,74.81200000
+24 Boo,24 Boo,1,1,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5025.78,9.814650,,,95.98630000
+4 UMa,4 UMa,1,1,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,4482.90,16.968400,,,73.46030000
+47 UMa,47 UMa,1,3,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,5947.00,1.207540,,,13.79670000
+51 Eri,51 Eri,3,1,"<a refstr=MICHIGAN_CATALOG__VOL__5 href=https://ui.adsabs.harvard.edu/abs/1999mctd.book.....H/abstract target=ref> Michigan Catalog, Vol. 5 </a>",F0 V,,,,,29.75750000
+51 Peg,51 Peg,1,1,<a refstr=HENRY_ET_AL__1996 href=https://ui.adsabs.harvard.edu/abs/1996AJ....111..439H/abstract target=ref> Henry et al. 1996 </a>,,,,,,15.46140000
+55 Cnc,55 Cnc,2,7,<a refstr=BOURRIER_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...619A...1B/abstract target=ref>Bourrier et al. 2018</a>,,5172.00,0.943000,0.905000,4.430000,12.58550000
+6 Lyn,6 Lyn,1,1,<a refstr=GAIA_COLLABORATION_ET_AL__2018 href=https://ui.adsabs.harvard.edu/abs/2018A&A...616A...1G/abstract target=ref>Gaia DR2</a>,,5000.00,5.045864,,,54.65990000
+61 Vir,61 Vir,1,3,<a refstr=CANNON___PICKERING_1918 href=https://ui.adsabs.harvard.edu/abs/1918AnHar..91....1C/abstract target=ref> Cannon & Pickering 1918</a>,G5,,,,,8.50332000
+7 CMa,7 CMa,1,2,"<a refstr=MICHIGAN_CATALOG__VOL__4 href=https://ui.adsabs.harvard.edu/abs/1988MSS...C04....0H/abstract target=ref> Michigan Catalog, Vol. 4 </a>",K1 III (+ M),,,,,19.81010000
+70 Vir,70 Vir,1,1,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,5495.00,1.923270,0.960000,3.852260,17.90110000
+75 Cet,75 Cet,2,2,<a refstr=STASSUN_ET_AL__2019 href=https://ui.adsabs.harvard.edu/abs/2019AJ....158..138S/abstract target=ref>TICv8</a>,,4827.32,10.520300,,,82.96130000
+81 Cet,81 Cet,1,1,<a refstr=SATO_ET_AL__2008 href=https://ui.adsabs.harvard.edu/abs/2008PASJ...60.1317S/abstract target=ref> Sato et al. 2008 </a>,G5 III,4785.00,11.000000,2.400000,2.350000,101.26000000
