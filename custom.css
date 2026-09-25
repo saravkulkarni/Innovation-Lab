@@ -18,6 +18,11 @@ main {
  background-color: #b85042;
 }
 
+.myst-fm-block-title {
+ background-color: #fefae0 !important;
+ color: #fefae0 !important;
+}
+
 .myst-jp-nb-toolbar-inner {
  border-color: #b85042 !important;
  background-color: #fefae0 !important;
