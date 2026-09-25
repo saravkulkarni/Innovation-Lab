@@ -33,6 +33,11 @@ project:
      title: Chapter 2 - Data Cleaning
    - file: Chapter_3_Intro.md
      title: Chapter 3 - Regression
+     children: 
+     - file: Linear_Regression.ipynb
+       title: Linear Regression
+     - file: Polynomial_Regression.ipynb
+       title: Polynomial Regression
    - file: Chapter_4_Intro.md
      title: Chapter 4 - Classification
    - file: Chapter_5_Intro.md
