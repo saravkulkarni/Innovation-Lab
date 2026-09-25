@@ -65,7 +65,7 @@ site:
   parts:
    primary_sidebar_footer: sidebarfooter.md
    navbar_end: navigationbar.md
-   banner: Updates coming soon!
+   
   options:
    style: custom.css
    favicon: logo.png
