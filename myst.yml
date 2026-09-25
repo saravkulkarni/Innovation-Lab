@@ -18,6 +18,10 @@ project:
      title: How to use
    - file: Chapter_0_Intro.md
      title: Chapter 0 - Introduction to Python and its Libraries
+     children:
+     - file: NumPy.ipynb
+     - file: Matplotlib.ipynb
+     - file: Pandas.ipynb
    - file: Chapter_1_Intro.md
      title: Chapter 1 - Machine Learning Introduction
      children:
@@ -58,4 +62,5 @@ site:
    style: custom.css
    favicon: logo.png
    logo: logo.png
+   hide_outline: true
    
