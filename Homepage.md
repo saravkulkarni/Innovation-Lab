@@ -13,8 +13,8 @@ This machine learning guidebook will give you an introductory overview to some o
 | 0 | Introduction to Python and its Libraries |
 | 1 | Machine Learning Introduction |
 | 2 | Data Cleaning |
-| 3 | Classification |
-| 4 | Regression |
+| 3 | Regression |
+| 4 | Classification |
 | 5 | Model Evaluation |
 | 6 | Validation Techniques |
 | 7 | Neural Networks |
