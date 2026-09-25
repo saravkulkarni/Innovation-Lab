@@ -55,6 +55,8 @@ project:
         title: UCL modules
       - file: External_resources.md
         title: Other resources
+   - file: Guidebook_how_to.md
+     title: Make your own guidebook
 
 
 site:
