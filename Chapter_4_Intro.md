@@ -1,1 +1,1 @@
-Chapter 4 - Regression
+Chapter 4 - Classification
