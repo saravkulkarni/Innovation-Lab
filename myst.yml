@@ -29,7 +29,7 @@ project:
         title: What is machine learning?
       - file: Types_of_ML.md
         title: Types of machine learning
-   - file: Chapter_2_Intro.md
+   - file: Data_Cleaning.ipynb
      title: Chapter 2 - Data Cleaning
    - file: Chapter_3_Intro.md
      title: Chapter 3 - Classification
