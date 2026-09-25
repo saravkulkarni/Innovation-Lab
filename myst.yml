@@ -32,9 +32,9 @@ project:
    - file: Data_Cleaning.ipynb
      title: Chapter 2 - Data Cleaning
    - file: Chapter_3_Intro.md
-     title: Chapter 3 - Classification
+     title: Chapter 3 - Regression
    - file: Chapter_4_Intro.md
-     title: Chapter 4 - Regression
+     title: Chapter 4 - Classification
    - file: Chapter_5_Intro.md
      title: Chapter 5 - Model Evaluation
    - file: Chapter_6_Intro.md
