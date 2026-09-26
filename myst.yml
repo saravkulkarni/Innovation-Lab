@@ -38,7 +38,7 @@ project:
        title: Linear Regression
      - file: Polynomial_Regression.ipynb
        title: Polynomial Regression
-   - file: Chapter_4_Intro.md
+   - file: Classification.ipynb
      title: Chapter 4 - Classification
    - file: Chapter_5_Intro.md
      title: Chapter 5 - Model Evaluation
