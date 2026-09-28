@@ -31,6 +31,7 @@ On the top right hand corner of each page, you will see a rocket symbol (next to
 When you click on this button, it will ask you to insert a link. Please use the following link: https://mybinder.org/v2/gh/saravkulkarni/Innovation-Lab/main
 
 You will have to choose the relevant section from the menu that appears on the left of the loaded screen.
+It can sometimes be temperamental, so just clicking on this link is the safer option. 
 
 :::
 
